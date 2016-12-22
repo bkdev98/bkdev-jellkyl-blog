@@ -2,7 +2,7 @@
 title: Blog Quoc Khanh
 subtitle: dev
 email: bkdev98@gmail.com
-description: I'm a Developer making the web an awesome place.<br /> I love to write. If there is a tutorial or blog post you would like to see, please email me and I'll see what I can do!
+description: I'm a Developer making the web an awesome place.<br /> And I love to write.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.bkdev.me" # the base hostname & protocol for your site
 author: bkdev
