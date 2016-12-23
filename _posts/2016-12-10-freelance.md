@@ -20,7 +20,7 @@ Xong xuôi, chú chở ra trạm xe, mình tạm biệt rồi leo lên xe bus v�
 
 Thực ra thì sau cuộc trò chuyện thì câu hỏi về quán ăn gia đình cần branding mình cũng chưa giải đáp được :))
 
-</blockquote>Mà, niềm vui của làm freelance là khi cùng client nhìn thấy, xác định được hướng đi tiềm năng của sản phẩm, của công việc.</blockquote>
+<blockquote>Mà, niềm vui của làm freelance là khi cùng client nhìn thấy, xác định được hướng đi tiềm năng của sản phẩm, của công việc.</blockquote>
 
 Đi một đoạn thấy cảnh đẹp nên leo xuống, được mấy anh xe ôm ùa ra săn đón như Sếp Tùng's xuống máy bay, chợt lòng dâng nên một niềm tự hào khôn tả. Ưỡn ngực, mắt nhìn thẳng, mình khoan thai bước nhẹ trên đôi bitex's mà hình như ngày xưa Sếp's hay đeo đi hát nắng ấm xa dần. Thi thoảng lại mỉm cười lắc đầu miệng khẽ nói:
 - Dạ con không đi đâu.
@@ -28,4 +28,4 @@ Thực ra thì sau cuộc trò chuyện thì câu hỏi về quán ăn gia đìn
 
 Lại đợi chuyến bus khác qua...
 
-<pre><code>Sài Gòn, 12/2016</pre></code>
+<pre><code>Sài Gòn, 12/2016</code></pre>
