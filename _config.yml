@@ -3,7 +3,7 @@ title: Quoc Khanh Developer
 # subtitle:
 email: bkdev98@gmail.com
 description: I'm a Developer making the web an awesome place.<br /> And I love to write.
-baseurl: "/blog-bkdev-theme" # the subpath of your site, e.g. /blog
+# baseurl: "/blog-bkdev-theme" # the subpath of your site, e.g. /blog
 url: "http://blog.bkdev.me" # the base hostname & protocol for your site
 author: bkdev
 street_address: Dist 12.
