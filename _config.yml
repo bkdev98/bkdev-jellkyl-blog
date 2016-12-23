@@ -12,6 +12,7 @@ state: HCM
 zip_code: 69696
 country: Vietnam
 phone: (84) 917 679 524
+relative_url: "https://blog.bkdev.me"
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
