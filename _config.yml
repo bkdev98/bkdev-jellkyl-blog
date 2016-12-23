@@ -3,7 +3,7 @@ title: Quoc Khanh Developer
 # subtitle:
 email: bkdev98@gmail.com
 description: I'm a Developer making the web an awesome place.<br /> And I love to write.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog-bkdev-theme" # the subpath of your site, e.g. /blog
 url: "http://blog.bkdev.me" # the base hostname & protocol for your site
 author: bkdev
 street_address: Dist 12.
@@ -12,7 +12,7 @@ state: HCM
 zip_code: 69696
 country: Vietnam
 phone: (84) 917 679 524
-relative_url: "http://blog.bkdev.me"
+# relative_url: "http://blog.bkdev.me"
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
